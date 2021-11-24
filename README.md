@@ -1,10 +1,8 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Instagram Login Page
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Repositório clonado e alterado como tarefa no curso de Javascript developer
 
 ### Os requisitos são:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+- [HTML5](https://www.w3schools.com/html/)
+- [CSS3] (ttps://developer.mozilla.org/pt-BR/docs/Web/CSS)
